@@ -13,6 +13,6 @@ a {
   color: white;
 }
 
-nav {
-  background-image: url("resources/images/backgroundimage.png");
+.header {
+  background-image: url("../images/backgroundimage.png");
 }
